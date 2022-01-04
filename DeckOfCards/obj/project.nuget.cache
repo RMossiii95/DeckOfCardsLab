@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVoz0h9uzkvCwTOlvoxV8X/0j0g9M4CFBpOofwmgXa6imwVM3NBwejhkcjYB211u0nak+iEi91wWCHHrfTRVtQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitHubDevBuild\\repos\\DeckOfCards\\DeckOfCards\\DeckOfCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RMoss1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
